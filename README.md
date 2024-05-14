@@ -1,5 +1,5 @@
 ### Hi there 👋
-![poohㄹㅁㅈㄹㅈㄹ](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQW0Z94iqO01RBz7uaesVFC5hG-J4y-ldNCHg&usqp=CAU)
+[![Notion](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pcmag.com%2Freviews%2Fnotion&psig=AOvVaw0pMlh2a_7tz4ahJk8LpFGh&ust=1715751363718000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJD_mIa2jIYDFQAAAAAdAAAAABAE)](https://semin1127.notion.site/5a39b5feedc345b48277bee0b01008c6?pvs=4)
 <!--
 **ParkSemin/ParkSemin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
