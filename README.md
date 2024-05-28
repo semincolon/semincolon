@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Semin%20Park&desc=Have%20a%20nice%20day!&animation=twinkling&fontColor=ffffff&fontSize=45" />
   
 </div>
-
+<hr>
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
