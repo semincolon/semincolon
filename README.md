@@ -69,6 +69,7 @@
 </div>
 
 <br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin" alt="Semin's GitHub stats">
