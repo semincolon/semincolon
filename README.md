@@ -70,7 +70,8 @@
 
 <br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="Anurag's GitHub stats">
-</a>
-
+<div align="center">
+  <a href="https://github.com/ParkSemin/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin" alt="Semin's GitHub stats">
+  </a>
+</div>
