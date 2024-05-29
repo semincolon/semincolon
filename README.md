@@ -67,3 +67,10 @@
       src="https://img.shields.io/badge/tpals1127@naver.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+<br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra" alt="Anurag's GitHub stats">
+</a>
+
