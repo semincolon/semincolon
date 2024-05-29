@@ -75,3 +75,10 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin&theme=ambient_gradient" alt="Semin's GitHub stats">
 </div>
+
+<br>
+
+<h3 align="center">📝 Baekjoon 📝</h3>
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=semin1127" />
+</div>
