@@ -73,5 +73,5 @@
 
 <h3 align="center">💻 Github Stats 💻</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin" alt="Semin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin&bg_color=DEG,f00,0f0,00f" alt="Semin's GitHub stats">
 </div>
