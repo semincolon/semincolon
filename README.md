@@ -78,7 +78,9 @@
 
 <br>
 
+<!--
 <h3 align="center">📝 Baekjoon 📝</h3>
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=semin1127" />
 </div>
+-->
