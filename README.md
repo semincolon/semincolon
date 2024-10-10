@@ -73,7 +73,7 @@
 
 <h3 align="center">💻 Github Stats 💻</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ParkSemin&theme=ambient_gradient" alt="Semin's GitHub stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=semincolon&theme=ambient_gradient" alt="Semin's GitHub stats">
 </div>
 
 <br>
