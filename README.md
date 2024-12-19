@@ -2,7 +2,7 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
 
-### 안녕하세요, iOS 주니어 개발자🌱 박세민입니다.
+### 안녕하세요, 주니어 개발자🌱 박세민입니다.
 * 개발자의 입장이 아닌 **사용자의 입장**이 되어 앱을 개발하려 노력하고 있습니다.
 * 호기심이 많아 **_'WHY?'_** 질문을 반복하며 배움의 깊이를 더하고 있습니다.
 * 학습을 기록하고 남들과 공유하기 위해 [기술 블로그](https://semin1127.tistory.com/)를 운영하고 있습니다.
